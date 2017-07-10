@@ -7,7 +7,9 @@
 //  Created by Melvin Rivera on 7/5/14.
 //  Copyright (c) 2014 All Forces. All rights reserved.
 //
-
+/*
+ 一个照片处理的库
+ */
 import Foundation
 import UIKit
 import QuartzCore

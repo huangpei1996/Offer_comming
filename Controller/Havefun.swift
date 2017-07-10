@@ -5,7 +5,9 @@
 //  Created by 雅风 on 2017/5/18.
 //  Copyright © 2017年 雅风. All rights reserved.
 //
-
+/*
+ 奖状的展示选择页
+ */
 import UIKit
 
 class Havefun: UIViewController {

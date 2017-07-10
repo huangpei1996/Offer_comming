@@ -5,7 +5,9 @@
 //  Created by 雅风 on 2017/3/2.
 //  Copyright © 2017年 雅风. All rights reserved.
 //
-
+/*
+ 恶搞offer的展示选择页
+ */
 import UIKit
 
 class ViewController: UIViewController,UIScrollViewDelegate {
